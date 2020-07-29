@@ -1,3 +1,3 @@
-# Hi, I'm César
+# Hola, soy César
 
-I'm a software engineer with knowledge and practice in java as backend and Angular as frontend. I also have a background in software testing and data analysis.
+Soy un ingeniero de software con conocimiento y práctica en Java como backend y Angular como frontend. También tengo experiencia en pruebas de software y análisis de datos.
