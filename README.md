@@ -1,5 +1,6 @@
 # Hola, soy César
 
-Soy un ingeniero de software con conocimiento y práctica en Java/Node.js como backend y Javascript/React/Angular como frontend. También tengo experiencia en pruebas de software y análisis de datos.
+Ingeniero de Software con experiencia en aseguramiento de calidad de software y
+programación. Enfocado en el desarrollo de páginas webs / front end
 
 Si llegaste aquí, te invito a pasar por mi portafolio en Notion: https://bit.ly/2WtOPXt
